@@ -1,0 +1,9 @@
+{
+  "destination": {
+    "js": "source/javascripts/lib"
+  },
+
+  "dependencies": [
+    ["ccampbell/mousetrap", "1.4.6", "mousetrap.js"]
+  ]
+}
